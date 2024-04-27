@@ -6,9 +6,9 @@ Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZWU3OGEzZGMtNGVlNi00ZmYxLT
 I, Rajeswari, worked on this project by following the Codebasics PowerBi projects and used the following tools and techniques:
 
 ## Tech Skills :
-
-- 1.SQL,
-2.PowerBi Desktop
+<p> 
+1.SQL <br>,
+2.PowerBi Desktop, <br>
 3.Excel
 4.DAX language
 5.DAX Studio (for report optimization)
@@ -31,6 +31,8 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 13.Setting up a personal gateway for data auto-refresh
 14.Creating PowerBi Apps
 15.Collaborating, managing workspaces, and setting access permissions in Power BI services
+
+</P>
 
 #### Company Background:
  AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete better, the company needs to build an analytics team for data-driven insights and decisions.
