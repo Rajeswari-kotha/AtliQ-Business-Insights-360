@@ -32,8 +32,8 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 14.Creating PowerBi Apps
 15.Collaborating, managing workspaces, and setting access permissions in Power BI services
 
-####Company Background:
+#### Company Background:
  AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete better, the company needs to build an analytics team for data-driven insights and decisions.
 
-######Project Outcome:
+###### Project Outcome:
  This project aims to clarify the purpose and goals of the data analytics initiative. The report generated will enable data-driven decision-making and answer numerous questions about the company's performance. It's a step towards surviving and thriving in the industry.
