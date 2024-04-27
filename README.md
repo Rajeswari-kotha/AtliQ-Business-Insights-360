@@ -7,7 +7,7 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 
 ## Tech Skills :
 
-1.SQL
+1.SQL,
 2.PowerBi Desktop
 3.Excel
 4.DAX language
