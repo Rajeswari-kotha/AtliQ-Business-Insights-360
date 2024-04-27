@@ -41,3 +41,7 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 
 ###### Project Outcome:
  This project aims to clarify the purpose and goals of the data analytics initiative. The report generated will enable data-driven decision-making and answer numerous questions about the company's performance. It's a step towards surviving and thriving in the industry.
+
+ ######## Overal Reports 
+ 
+ ![Home_Page](https://github.com/Rajeswari-kotha/AtliQ-Business-Insights-360/assets/162559903/59882bac-56ff-4be7-8232-78f6e98c2daa)
