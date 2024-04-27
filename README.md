@@ -16,21 +16,21 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 
 ### PowerBI Techniques Upskilled:
 <p> 
-1.Asking the right questions before starting a project  <br> 
-2.Creating calculated columns  <br>
-3.Creating measures using the DAX language  <br>
-4.Data modeling <br>
-5.Using Bookmarks to switch between visuals  <br>
-6.Page navigation with buttons  <br>
-7.Preventing zero division errors using the divide function  <br>
-8.Dynamic titles based on applied filters  <br>
-9.Using KPI indicators  <br>
-10.Conditional formatting of visual values with icons or background colour  <br>
-11.Data validation techniques  <br>
-12.Publishing reports to Power BI services  <br>
-13.Setting up a personal gateway for data auto-refresh  <br>
-14.Creating PowerBi Apps <br>
-15.Collaborating, managing workspaces, and setting access permissions in Power BI services </p>
+1. Asking the right questions before starting a project  <br> 
+2. Creating calculated columns  <br>
+3. Creating measures using the DAX language  <br>
+4. Data modeling <br>
+5. Using Bookmarks to switch between visuals  <br>
+6. Page navigation with buttons  <br>
+7. Preventing zero division errors using the divide function  <br>
+8. Dynamic titles based on applied filters  <br>
+9. Using KPI indicators  <br>
+10. Conditional formatting of visual values with icons or background colour  <br>
+11. Data validation techniques  <br>
+12. Publishing reports to Power BI services  <br>
+13. Setting up a personal gateway for data auto-refresh  <br>
+14. Creating PowerBi Apps <br>
+15. Collaborating, managing workspaces, and setting access permissions in Power BI services </p>
 
 
 
