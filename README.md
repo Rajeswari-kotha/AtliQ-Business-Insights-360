@@ -49,4 +49,6 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 
  ![Financial_Report](https://github.com/Rajeswari-kotha/AtliQ-Business-Insights-360/assets/162559903/5c146a12-d086-42d3-b145-4d275830d6ca)
 
+ ![Sales_Report](https://github.com/Rajeswari-kotha/AtliQ-Business-Insights-360/assets/162559903/4b162e33-96ff-4cb6-aa3f-ca723fa2718d)
+
  ![Market_Report](https://github.com/Rajeswari-kotha/AtliQ-Business-Insights-360/assets/162559903/8a798b6a-b0cb-4433-ac8a-40452286e636)
