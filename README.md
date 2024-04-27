@@ -7,16 +7,16 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 
 ## Tech Skills :
 <p> 
-1.SQL <br>,
+1.SQL <br>
 2.PowerBi Desktop, <br>
-3.Excel
-4.DAX language
-5.DAX Studio (for report optimization)
-6.Project charter file
+3.Excel <br>
+4.DAX language <br>
+5.DAX Studio (for report optimization) <br>
+6.Project charter file </p>
 
 ### PowerBI Techniques Upskilled:
 
-1.Asking the right questions before starting a project
+1.Asking the right questions before starting a project 
 2.Creating calculated columns
 3.Creating measures using the DAX language
 4.Data modeling
@@ -32,7 +32,7 @@ I, Rajeswari, worked on this project by following the Codebasics PowerBi project
 14.Creating PowerBi Apps
 15.Collaborating, managing workspaces, and setting access permissions in Power BI services
 
-</P>
+
 
 #### Company Background:
  AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete better, the company needs to build an analytics team for data-driven insights and decisions.
