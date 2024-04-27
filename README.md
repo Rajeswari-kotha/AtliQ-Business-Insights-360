@@ -3,6 +3,8 @@ AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data a
 
 Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZWU3OGEzZGMtNGVlNi00ZmYxLTlmNTctMmY1NzcyNTVmMGJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+Video Presentation :https://youtu.be/d4lDOOq6Ca8?si=7MVEkSfbXxy8zk2r
+
 I, Rajeswari, worked on this project by following the Codebasics PowerBi projects and used the following tools and techniques:
 
 ## Tech Skills :
