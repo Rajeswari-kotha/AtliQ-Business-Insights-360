@@ -5,16 +5,16 @@ Live Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZWU3OGEzZGMtNGVlNi00ZmYxLT
 
 I, Rajeswari, worked on this project by following the Codebasics PowerBi projects and used the following tools and techniques:
 
-##Tech Skills :
+## Tech Skills :
 
-#1.SQL
-#2.PowerBi Desktop
+1.SQL
+2.PowerBi Desktop
 3.Excel
 4.DAX language
 5.DAX Studio (for report optimization)
 6.Project charter file
 
-###PowerBI Techniques Upskilled:
+### PowerBI Techniques Upskilled:
 
 1.Asking the right questions before starting a project
 2.Creating calculated columns
